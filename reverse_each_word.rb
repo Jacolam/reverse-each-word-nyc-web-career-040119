@@ -5,7 +5,7 @@ def reverse_each_word(str)
    word.reverse 
   end 
   
-reversed.join(" ")
+.join(" ")
   
 end 
 
